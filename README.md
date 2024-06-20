@@ -15,6 +15,10 @@ There are over 130 code snippets for jQuery included. Check out the [snippet lis
 
 ## Changelog
 
+**v1.9.22.1**
+- Update a few details
+- CodeSnippet jqAjaxAspNetWebService : Change from type to method for reasonableness.
+
 **v1.9.22.0**
 - Added support for Visual Studio 2022.
 - Update Jquery to 3.7.1
